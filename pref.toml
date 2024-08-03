@@ -339,5 +339,5 @@ cache_subscription = 86400
 cache_config = 604800
 cache_ruleset = 3600
 script_clean_context = true
-async_fetch_ruleset = true
+async_fetch_ruleset = false
 skip_failed_links = false
