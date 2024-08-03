@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 env:
-  PROJECT: subconverter
+  PROJECT: subconverter-s
 
 jobs:
   build:
